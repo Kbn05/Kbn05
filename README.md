@@ -34,7 +34,7 @@ Hello! I´m Kevin, a Software Engineer, developer & Q.A tester from Colombia. He
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbn05&size_weight=0.1&count_weight=1&langs_count=8&layout=compact&hide=html,css,objective-c,cmake,swift,dart,scss,powershell,handlebars,batchfile" alt="langs"/> | [![Kevin's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kbn05&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Kevin's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kbn05&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) |
 | ---------- | ---------- |
 
-## Contact
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kbn055/)
 
